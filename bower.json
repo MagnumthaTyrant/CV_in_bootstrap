@@ -1,0 +1,9 @@
+{
+    "name":"CV_in_bootstrap",
+    "version":"1.0.0",
+    "dependencies":{
+        "bootstrap":"latest",
+        "jquery":"latest",
+        "angular":"latest"
+    }
+}
